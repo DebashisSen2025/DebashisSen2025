@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=DebashisSen2025)
 
 # 👋 Hi, I'm Debashis Sen  
 
