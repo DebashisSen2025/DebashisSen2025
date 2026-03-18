@@ -1,9 +1,9 @@
-# Hi, I'm Debashis Sen 👋  
+![Profile Views](https://komarev.com/ghpvc/?username=DebashisSen2025)
 
-📊 Data Analyst | Turning Data into Business Insights  
-🚀 SQL • Power BI • Python  
+# 👋 Hi, I'm Debashis Sen  
 
-💡 I turn raw data into actionable business decisions that drive growth  
+📊 Data Analyst | SQL (5⭐ HackerRank) • Power BI • Python  
+💡 Turning Data into Business Insights  
 
 📍 Jamshedpur, India  
 📧 sen.debashis.sd@gmail.com  
@@ -12,68 +12,75 @@
 ---
 
 ## 🚀 About Me  
-Data Analyst with 3.5 years of business experience at Ginger Hotels (IHCL Group).  
-Built MIS reports, revenue dashboards & KPI trackers to support business decisions.  
 
-🎯 Currently: Crio.do Data Analytics Fellowship (11+ real-world projects)  
-🏆 SQL — HackerRank 5⭐ (Advanced Certified)  
-📊 Power BI — DAX, Data Modeling, Dashboard Design  
-🐍 Python — EDA on 500,000+ rows datasets  
+• 📊 3.6 Years of experience in hospitality & service industry  
+• 📈 Built MIS reports, revenue dashboards & KPI trackers  
+• 💡 Strong business understanding (Occupancy, ADR, RevPAR)  
+• 🎯 Transitioned into Data Analytics with real-world projects  
 
 ---
 
 ## 🛠️ Skills  
 
 **Languages:** SQL, Python  
-**Visualization:** Power BI, Tableau, Excel  
-**Databases:** MySQL, PostgreSQL, SQLite  
-**Tools:** Jupyter Notebook, VS Code, Git, GitHub  
+**Visualization:** Power BI, Excel  
+**Databases:** MySQL, PostgreSQL  
+**Tools:** Jupyter, Git, GitHub  
 
 ---
 
-## 📌 Featured Projects  
+## 📂 Featured Projects  
 
 ### 📊 Credit Card Financial Dashboard  
-Analyzed customer spending, credit usage & behavior using Power BI  
-✔ Built KPI metrics using DAX  
-✔ Created customer segmentation insights  
+✔ Built interactive Power BI dashboard using DAX  
+✔ Analyzed customer spending & segmentation  
 
 ---
 
-### 🚗 Vehicle Registration Analysis  
-Analyzed 500,000+ records to identify EV growth trends  
-✔ Found 180% YoY growth in EV adoption  
+### 🚗 EV Registration Analysis  
+✔ Analyzed 500K+ records  
+✔ Identified **180% YoY growth trend**  
 
 ---
 
 ### 🏦 Customer Churn Analysis  
-EDA on 10,000+ customers to identify churn drivers  
-✔ Provided retention strategy insights  
+✔ EDA on 10,000+ customers  
+✔ Found key churn drivers  
 
 ---
 
 ### 📞 Call Center Dashboard  
-Tracked agent performance & call trends using Power BI  
+✔ Tracked agent performance & KPIs  
 
 ---
 
-### 🛒 Blinkit Sales Dashboard  
-Analyzed product performance & revenue insights  
+## 🌟 SQL Roadmap (Must Check)  
+
+🚀 Learn SQL from Beginner → Advanced with real-world use cases  
+
+👉 Explore here:  
+🔗 https://github.com/DebashisSen2025  
 
 ---
 
 ## 📜 Certifications  
+
 🏅 HackerRank — SQL (Advanced, Intermediate, Basic)  
 🏅 Databricks — SQL Analytics  
 🏅 Forage — Mastercard Simulation  
-🏅 Power BI Certification  
 
 ---
 
-## 🌐 Let's Connect  
+## 📢 Let’s Connect  
+
 🔗 LinkedIn: https://linkedin.com/in/debashis-sen25  
 📧 Email: sen.debashis.sd@gmail.com  
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+⭐ If you found my work helpful:  
+👉 Give a ⭐ to repositories  
+👉 Follow me on GitHub  
+👉 Connect on LinkedIn  
+
+🚀 Let’s grow together!
