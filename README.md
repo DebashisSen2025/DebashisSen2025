@@ -1,85 +1,28 @@
+# 👋 Hi, I'm Debashis Sen
+📊 Data Analyst | SQL • Power BI • Python • Excel
+💡 Turning data into business insights
+📍 Jamshedpur, India | 📧 sen.debashis.sd@gmail.com | 🔗 LinkedIn
 
-# 👋 Hi, I'm Debashis Sen  
+## 🚀 About Me
+- 3.6 years in hospitality & service industry (MIS reports, revenue dashboards, KPI trackers)
+- Strong business understanding: Occupancy, ADR, RevPAR
+- Now working in administration at RSB Transmissions and building data analytics projects
 
-📊 Data Analyst | SQL (5⭐ HackerRank) • Power BI • Python  
-💡 Turning Data into Business Insights  
+## 💼 Experience
+**Trainee Associate – Administration** | RSB Transmissions (I) Ltd., Jamshedpur | Aug 2026 – Present
+- Maintain Excel-based monthly bill summaries, travel MIS and bill-processing trackers
+- Coordinate vendor code creation, approvals, indents and reimbursements
+- Track canteen coupon data, pantry stock and visitor safety equipment
+- Coordinate travel, guest house, hotel, cab and conference room arrangements
 
-📍 Jamshedpur, India  
-📧 sen.debashis.sd@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/debashis-sen25  
+## 🛠️ Skills
+SQL, Python | Power BI, Excel | MySQL, PostgreSQL | Jupyter, Git, GitHub
 
----
+## 📂 Featured Projects
+- 📊 [Credit Card Financial Dashboard](repo-link) – Power BI, DAX
+- 🚗 [EV Registration Analysis](repo-link) – 500K+ records, 180% YoY growth
+- 🏦 [Customer Churn Analysis](repo-link) – 10,000+ customers, key churn drivers
+- 📞 [Call Center Dashboard](repo-link) – agent performance & KPIs
 
-## 🚀 About Me  
-
-• 📊 3.6 Years of experience in hospitality & service industry  
-• 📈 Built MIS reports, revenue dashboards & KPI trackers  
-• 💡 Strong business understanding (Occupancy, ADR, RevPAR)  
-• 🎯 Transitioned into Data Analytics with real-world projects  
-
----
-
-## 🛠️ Skills  
-
-**Languages:** SQL, Python  
-**Visualization:** Power BI, Excel  
-**Databases:** MySQL, PostgreSQL  
-**Tools:** Jupyter, Git, GitHub  
-
----
-
-## 📂 Featured Projects  
-
-### 📊 Credit Card Financial Dashboard  
-✔ Built interactive Power BI dashboard using DAX  
-✔ Analyzed customer spending & segmentation  
-
----
-
-### 🚗 EV Registration Analysis  
-✔ Analyzed 500K+ records  
-✔ Identified **180% YoY growth trend**  
-
----
-
-### 🏦 Customer Churn Analysis  
-✔ EDA on 10,000+ customers  
-✔ Found key churn drivers  
-
----
-
-### 📞 Call Center Dashboard  
-✔ Tracked agent performance & KPIs  
-
----
-
-## 🌟 SQL Roadmap (Must Check)  
-
-🚀 Learn SQL from Beginner → Advanced with real-world use cases  
-
-👉 Explore here:  
-🔗 https://github.com/DebashisSen2025  
-
----
-
-## 📜 Certifications  
-
-🏅 HackerRank — SQL (Advanced, Intermediate, Basic)  
-🏅 Databricks — SQL Analytics  
-🏅 Forage — Mastercard Simulation  
-
----
-
-## 📢 Let’s Connect  
-
-🔗 LinkedIn: https://linkedin.com/in/debashis-sen25  
-📧 Email: sen.debashis.sd@gmail.com  
-
----
-
-⭐ If you found my work helpful:  
-👉 Give a ⭐ to repositories  
-👉 Follow me on GitHub  
-👉 Connect on LinkedIn  
-
-🚀 Let’s grow together!
+## 📜 Certifications
+HackerRank SQL (Basic, Intermediate, Advanced) • Databricks SQL Analytics • Forage Mastercard Simulation
